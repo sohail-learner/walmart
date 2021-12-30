@@ -7,4 +7,4 @@ jenkins insallation
 #Script is as follows
 echo "Please enter your name"
 read name
-
+echo "the name you have entered is $name"
