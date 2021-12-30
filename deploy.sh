@@ -5,3 +5,4 @@ jenkins insallation
 #Author : Sohail
 #purpose : Learning
 #Script is as follows
+echo "Please enter your name"
