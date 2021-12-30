@@ -7,4 +7,5 @@ jenkins insallation
 #Script is as follows
 echo "Please enter your name"
 read name
-
+#uat branch
+echo "The name which you have enterd is $name"
