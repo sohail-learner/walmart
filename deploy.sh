@@ -8,3 +8,5 @@ jenkins insallation
 echo "Please enter your name"
 read name
 echo "the name you have entered is $name"
+
+## Script is completed
